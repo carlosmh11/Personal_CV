@@ -1,0 +1,29 @@
+https://carlosmh11.github.io/Personal_CV/ 
+
+Cambios en HTML:
+
+1. Contenido Personalizado:
+   - Actualicé el contenido del archivo HTML para reflejar la información del CV de Carlos Martín Hernández, incluyendo el nombre, datos de contacto, formación académica, experiencia profesional, habilidades, idiomas y voluntariado.
+   - Añadí nuevas secciones como "Idiomas" y "Voluntariado", que no estaban presentes en el archivo original.
+
+2. Estructura y Organización:
+   - Reorganicé las secciones para mantener una jerarquía clara, destacando primero la información más relevante como experiencia profesional y formación académica.
+   - Utilicé etiquetas semánticas como `<section>` y `<ul>` para mejorar la estructura del documento y su accesibilidad.
+
+
+Cambios en CSS:
+
+1. Estilo General:
+   - Cambié la fuente a "Roboto".
+   - Apliqué un esquema de colores sobrio y profesional, con tonos de azul oscuro para encabezados y gris para el texto general.
+
+2. Encabezados y Separación Visual:
+   - Destacé los encabezados de cada sección (`<h2>`) con un color azul oscuro y una línea inferior para facilitar la lectura.
+   - Aumenté el tamaño de los títulos para jerarquizar mejor la información.
+
+3. Diseño Responsivo:
+   - Implementé reglas CSS para dispositivos pequeños, asegurando que el diseño sea legible y funcional en pantallas de menor tamaño (como móviles o tablets).
+
+4. Efectos Visuales:
+   - Agregué un fondo blanco con sombra al contenedor principal para dar un efecto de tarjeta flotante, mejorando la estética general.
+   - Ajusté los márgenes y el espaciado interno (padding) para garantizar un diseño limpio y bien espaciado.
