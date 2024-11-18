@@ -1,0 +1,100 @@
+
+/* General Body Style */
+body {
+    font-family: 'Roboto', Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Container for the CV */
+#cv {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Header Style */
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+header h1 {
+    font-size: 36px;
+    color: #004080; /* Dark blue for the name */
+}
+
+header p {
+    font-size: 20px;
+    color: #555;
+}
+
+/* Contact Information */
+#contact {
+    margin-bottom: 30px;
+}
+
+#contact h2 {
+    font-size: 24px;
+    color: #004080;
+}
+
+#contact address {
+    font-style: normal;
+}
+
+/* Education Section */
+#education, #experience, #skills, #technical-skills, #languages, #volunteering, #sports {
+    margin-bottom: 30px;
+}
+
+section h2 {
+    font-size: 24px;
+    color: #004080;
+    border-bottom: 2px solid #004080;
+    padding-bottom: 5px;
+}
+
+/* Experience and Skills List */
+section p {
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    margin: 5px 0;
+}
+
+/* Volunteer and Sports Section Styling */
+#volunteering, #sports {
+    font-size: 16px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    #cv {
+        width: 90%;
+    }
+
+    header h1 {
+        font-size: 30px;
+    }
+
+    header p {
+        font-size: 18px;
+    }
+
+    section h2 {
+        font-size: 22px;
+    }
+}
